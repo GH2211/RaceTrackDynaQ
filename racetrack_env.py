@@ -1,8 +1,4 @@
-# Please do not make changes to this file - it will be overwritten with a clean
-# version when your work is marked.
-#
-# This file contains code for the racetrack environment that you will be using
-# as part of the second part of the CM50270: Reinforcement Learning coursework.
+# Part of the CM50270: Reinforcement Learning coursework.
 #
 # Code Author: Joshua Evans (jbe25@bath.ac.uk)
 
@@ -495,17 +491,3 @@ def simple_issue_checking(results, modified_agent = False) :
 		if (len(results[i]) != 150) :
 			print("[Marking Advice] Agent {} was trained for {} episodes. Please train each of your agents for exactly 150 episodes.".format(i, len(results[i])))
 
-# num_steps = 1000000
-
-# env = RacetrackEnv()
-# state = env.reset()
-# print(state)
-
-# for _ in range(num_steps) :
-
-#     next_state, reward, terminal = env.step(random.choice(env.get_actions()))
-#     print(next_state)
-#     env.render()
-
-#     if (terminal) :
-#         _ = env.reset()
