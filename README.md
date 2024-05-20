@@ -13,4 +13,5 @@ The graph above shows that the modifications resulted in quicker learning and be
 # References
 
 Racetrack environment code by Dr Joshua Evans
+
 Plotting code by Dr Joshua Evans
