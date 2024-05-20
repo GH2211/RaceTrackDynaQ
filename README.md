@@ -7,7 +7,7 @@ I have implemented the DynaQ algorithm which combines model-based planning with 
 
 <img src="Images/ResultsGraph.png" alt="alt text" width="700" height="400">
 
-The graph above shows that the modifications resulted in quicker learning and better final performance. The quickened performance can be attributed to the “planning”, bootstrapping information for the model allowing it to learn quicker. The long-term performance improvements was from the epsilon decay discouraging exploration as we approach optimum and learner decay reducing overfitting to noise. 
+The graph above shows that the modifications resulted in quicker learning and better final performance. The quickened performance can be attributed to the “planning”, bootstrapping information for the model allowing it to learn quicker. The long-term performance improvements are a combination of the DynaQ algorithm as well as the epsilon decay discouraging exploration as we approach the optima and learner decay reducing overfitting to noise. 
 
 
 # References
