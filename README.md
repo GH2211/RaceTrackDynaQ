@@ -11,4 +11,5 @@ The graph above shows that the modifications resulted in quicker learning and be
 
 
 Racetrack environment code by Dr Joshua Evans (racetrack_env.py)
-Basic Q-learning returns plot by Dr Joshua Evans (correct_returns_q.json)
+
+Plotting code by Dr Joshua Evans (correct_returns_q.json)
