@@ -14,4 +14,4 @@ The graph above shows that the modifications resulted in quicker learning and be
 
 Racetrack environment code by Dr Joshua Evans
 
-Plotting code by Dr Joshua Evans
+Plotting code and Q-Learning data by Dr Joshua Evans 
